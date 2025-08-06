@@ -35,6 +35,18 @@
       "name": "🔞成人资源站2",
       "type": 3,
       "api": "https://agit.ai/ceshi/test/raw/branch/master/18.json"
+    },
+    {
+      "key": "csfilm",
+      "name": "CSTV影视",
+      "type": 3,
+      "api": "https://csdapi.benx.fun/api.php/provide/vod"
+    },
+    {
+      "key": "csanime",
+      "name": "CSTV动漫",
+      "type": 3,
+      "api": "https://csdm.benx.fun/api.php/provide/vod"
     }
   ],
   "lives": [
