@@ -1,0 +1,49 @@
+{
+  "site": [
+    {
+      "key": "sewozy",
+      "name": "色窝资源站",
+      "type": 3,
+      "api": "https://sewozyapi.com/api.php/provide/vod"
+    },
+    {
+      "key": "wanying",
+      "name": "万影色",
+      "type": 3,
+      "api": "https://wanying4.com/api.php/provide/vod"
+    },
+    {
+      "key": "anime",
+      "name": "二次元动漫",
+      "type": 3,
+      "api": "https://api.dying.cf/box/json/anime.json"
+    },
+    {
+      "key": "live",
+      "name": "Github直播",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u"
+    },
+    {
+      "key": "nsfw1",
+      "name": "🔞成人资源站1",
+      "type": 3,
+      "api": "https://notabug.org/lih720/box/raw/main/adult.json"
+    },
+    {
+      "key": "nsfw2",
+      "name": "🔞成人资源站2",
+      "type": 3,
+      "api": "https://agit.ai/ceshi/test/raw/branch/master/18.json"
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播源",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u"
+    }
+  ],
+  "parses": [],
+  "flags": ["youku", "qq", "qiyi", "mgtv", "letv", "pptv", "sohu"],
+  "spider": ""
+}
